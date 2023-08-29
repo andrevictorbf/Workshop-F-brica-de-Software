@@ -1,0 +1,7 @@
+#Atividade loop - 29/08/2023 - consiste em um loop cm limite ate o numero 20, em uma sequenciad e 23
+for i in range (0, 30):
+    if i==20:
+        print (i)
+        break 
+    else:
+        print(i)
