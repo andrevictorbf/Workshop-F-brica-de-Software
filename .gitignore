@@ -1,0 +1,6 @@
+venv
+
+*.sqlite3 #qualquer dado cm essa extensao
+
+__pycache__ #cache do aplicativo python
+
