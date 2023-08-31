@@ -1,0 +1,5 @@
+Depois de clonar o projeto, deve-se fazer os seguintes passos:
+venv/scrips/activate
+pip install -r requirements.txt
+sempre que houver uma nova dependência - 
+pip free > requirements.txt
